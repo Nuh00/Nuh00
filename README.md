@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nuh00
 - 👀 I’m interested in becoming a full-stack web developer.
-- 🌱 I’m currently learning the front-end web development and plan on making my way to the back end soon.
+- 🌱 I’m building a webapp that helps users manage their time more wisely.
 - 
-- 📫 How to reach me ...?
+- 📫 How to reach me                https://www.linkedin.com/in/noah-barkat-325a731b7/                 or                                       noahbarkatwork@gmail.com ?
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love challenges.
 
