@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nuh00
+- 👋 Hi, I’m Noah Barkat
 - 👀 I’m interested in becoming software engineer.
 - 🌱 I’m building a web app that helps users manage their time more wisely.
 - 
