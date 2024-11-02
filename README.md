@@ -71,6 +71,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
+
+| <a href="https://github.com/Nuh00/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuh00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Noah's github stats" /></a> | <a href="https://github.com/Nuh00/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuh00&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
