@@ -85,4 +85,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuh00&show_icons=true&locale=en&layout=compact" alt="nuh00" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuh00&show_icons=true&locale=en" alt="nuh00" /></p>
+
 ###
